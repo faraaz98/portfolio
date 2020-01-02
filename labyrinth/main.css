@@ -43,4 +43,8 @@
   .signup {
     width: 80%;
   }
+  #mc_embed_signup form {
+    padding: 0 !important;
+    width: 50%;
+  }
 }
