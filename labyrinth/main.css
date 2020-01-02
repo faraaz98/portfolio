@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:500,700&display=swap");
+
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+.navbar {
+  padding: 1rem 0;
+}
+
+#logo {
+  transform: scale(1.75);
+  padding-left: 1.25rem;
+}
+
+.features .card {
+  box-shadow: none;
+}
+
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+}
+
+#mc_embed_signup .button {
+  background-color: green !important;
+}
+
+.is-purple {
+  color: #7c69fc !important;
+}
+
+.person img {
+  height: 20rem;
+  vertical-align: bottom;
+}
+
+.greeting {
+  padding-top: 7.5%;
+}
+
+@media screen and (min-width: 1024px) {
+  .signup {
+    width: 80%;
+  }
+}
